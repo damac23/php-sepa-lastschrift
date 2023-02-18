@@ -1,6 +1,6 @@
 {
-	"name" : "michael-dev/php-sepa-lastschrift",
-	"description" : "PHP SEPA (Sammel-)Lastschriften erzeugen (XML)",
+	"name" : "damac23/php-sepa-lastschrift",
+	"description" : "PHP SEPA (Sammel-)Lastschriften erzeugen (XML) - modded",
 	"type" : "library",
 	"authors" : [{
 			"name" : "Michael Braun",
